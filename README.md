@@ -135,7 +135,7 @@ endmodule
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
-
+![](./rtllogicforflip1.png)
 
 
 
@@ -145,6 +145,7 @@ endmodule
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+![](./timiforlogic1.png)
 
 
 ## Program 2:
@@ -166,9 +167,11 @@ endmodule
 
 
 ## RTL LOGIC FOR FLIPFLOPS
+![](./rtllogic2.png)
 
 
 ## TIMING DIGRAMS FOR FLIP FLOPS
+![](./timing2.png)
 
 
 
@@ -192,6 +195,7 @@ endmodule
 
 
 ## RTL LOGIC FOR FLIPFLOPS
+![](./rtllogic3.png)
 
 
 
@@ -199,6 +203,7 @@ endmodule
 
 
 ## TIMING DIGRAMS FOR FLIP FLOPS
+![](./timi3.png)
 
 
 
@@ -229,12 +234,14 @@ endmodule
 
 
 ## RTL LOGIC FOR FLIPFLOPS
-
+![](./rtl4.png)
 
 
 
 
 ## TIMING DIGRAMS FOR FLIP FLOPS
+![](./
+timi4.png)
 
 
 
@@ -245,3 +252,4 @@ endmodule
 
 
 ### RESULTS 
+Thus implementation of SR,JK,D and T flipflops using nand gates are done sucessfully.
