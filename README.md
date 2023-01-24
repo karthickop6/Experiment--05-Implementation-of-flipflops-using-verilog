@@ -195,6 +195,7 @@ endmodule
 
 
 ## RTL LOGIC FOR FLIPFLOPS
+
 ![](./rtllogic3.png)
 
 
@@ -203,6 +204,7 @@ endmodule
 
 
 ## TIMING DIGRAMS FOR FLIP FLOPS
+
 ![](./timi3.png)
 
 
@@ -234,14 +236,15 @@ endmodule
 
 
 ## RTL LOGIC FOR FLIPFLOPS
+
 ![](./rtl4.png)
 
 
 
 
 ## TIMING DIGRAMS FOR FLIP FLOPS
-![](./
-timi4.png)
+
+![](./timi4.png)
 
 
 
